@@ -6,8 +6,6 @@ Profissional de Quality Assurance com experiência em testes de software, valida
 
 Atualmente, meu foco está em Java, Selenium WebDriver, Playwright e Quality Engineering.
 
-🚀 **Portfólio:** [Conheça meus projetos e minha trajetória profissional](https://SEU-SITE.com)
-
 ### 🛠️ Principais tecnologias
 
 Java • Selenium • Playwright • Postman • SQL • Jira • Xray • Git
